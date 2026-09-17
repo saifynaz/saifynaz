@@ -1,112 +1,19 @@
-<div align="center">
+ <h2 align="center">
+        Hey, I'm Saifynaz !
+ </h2>
+   <p align="center">
+        Engineering student | Web 3 | AI explorer
+    </p>
+  <h3>💡 What I Do</h3>
+    <ul>
+        <li>🛠️ Build with Node.js, Python ,HTML ,CSS</li>
+        <li>🤖 Experiment with AI bots & automation</li>
+        <li>🎯 Learning something new </li>
+    </ul>
 
-# 👋 Hi, I'm Saifynaz
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaudhari_shruti__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-chaudhari-217019286) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shrutiee26) 
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrutichaudhari650@gmail.com) 
 
-### 💻 Aspiring Software Engineer | 🌱 Web Developer | 🧩 Problem Solver
-
-I love building projects, learning new technologies and solving problems.
-
-<p>
- 
-  
-  
-  </a>
-</p>
-
-</div>
-
----
-
-## 🌸 About Me
-
-- 🎓 Computer Science Engineering Student
-- 💻 Interested in Full Stack Development
-- 🌱 Currently learning **JavaScript, React & DSA**
-- 🧠 Improving my problem-solving skills
-- 🚀 Building projects to gain practical experience
-- 🎯 Goal: Become a skilled Software Engineer and a good problem solver
-
----
-
-## 🛠️ Tech Stack
-
-### 👩‍💻 Languages & Technologies
-
-<p align="centre">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
-</p>
-
-
-## 📚 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-Deep%20Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-<img src="https://img.shields.io/badge/React.js-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-
-<img src="https://img.shields.io/badge/DSA-Practice-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white">
-
-<img src="https://img.shields.io/badge/Problem%20Solving-Improving-4CAF50?style=for-the-badge&logo=hackerrank&logoColor=white">
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/saifynaz">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ✨ Thanks for visiting my profile! ✨
-
-⭐ Feel free to explore my repositories and projects.
-
-</div>
-
-<!--
-**saifynaz/saifynaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
